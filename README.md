@@ -1,0 +1,2 @@
+# exercism-scala
+# exercism-scala
