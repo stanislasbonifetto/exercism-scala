@@ -4,3 +4,5 @@
 */target/
 */project/
 */.exercism/
+*/.bsp
+.DS_Store
