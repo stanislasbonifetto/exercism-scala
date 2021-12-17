@@ -6,3 +6,6 @@
 */.exercism/
 */.bsp
 .DS_Store
+**/.vscode
+**/.metals
+**/.bloop
